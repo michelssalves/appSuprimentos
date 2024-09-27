@@ -44,6 +44,9 @@ MIT
 @po-ui/ng-components
 MIT
 
+@po-ui/ng-templates
+MIT
+
 @po-ui/style
 MIT
 
